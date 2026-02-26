@@ -49,7 +49,7 @@ endif
 
 # Legal
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.lineagelegal.url=https://grandios.ai/legal
+    ro.lineagelegal.url=https://basedos.org/legal
 
 # Media
 PRODUCT_PRODUCT_PROPERTIES += \
